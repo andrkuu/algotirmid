@@ -1,0 +1,54 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/andreas/Desktop/TLU/Algoritmid/algotirmid/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/home/andreas/esp/xtensa-esp32-elf/bin/xtensa-esp32s2-elf-gcc cmTC_fa60f/fast && xtensa-esp32s2-elf-gcc: error: cmTC_fa60f/fast: No such file or directory
+xtensa-esp32s2-elf-gcc: fatal error: no input files
+compilation terminated.
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/andreas/Desktop/TLU/Algoritmid/algotirmid/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/home/andreas/esp/xtensa-esp32-elf/bin/xtensa-esp32s2-elf-gcc cmTC_ce819/fast && xtensa-esp32s2-elf-gcc: error: cmTC_ce819/fast: No such file or directory
+xtensa-esp32s2-elf-gcc: fatal error: no input files
+compilation terminated.
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/andreas/Desktop/TLU/Algoritmid/algotirmid/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/home/andreas/esp/xtensa-esp32-elf/bin/xtensa-esp32s2-elf-gcc cmTC_ed1e6/fast && xtensa-esp32s2-elf-gcc: error: cmTC_ed1e6/fast: No such file or directory
+xtensa-esp32s2-elf-gcc: fatal error: no input files
+compilation terminated.
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/andreas/Desktop/TLU/Algoritmid/algotirmid/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/home/andreas/esp/xtensa-esp32-elf/bin/xtensa-esp32s2-elf-gcc cmTC_66651/fast && xtensa-esp32s2-elf-gcc: error: cmTC_66651/fast: No such file or directory
+xtensa-esp32s2-elf-gcc: fatal error: no input files
+compilation terminated.
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/andreas/Desktop/TLU/Algoritmid/algotirmid/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/home/andreas/esp/xtensa-esp32-elf/bin/xtensa-esp32s2-elf-gcc cmTC_54385/fast && xtensa-esp32s2-elf-gcc: error: cmTC_54385/fast: No such file or directory
+xtensa-esp32s2-elf-gcc: fatal error: no input files
+compilation terminated.
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/andreas/Desktop/TLU/Algoritmid/algotirmid/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/home/andreas/esp/xtensa-esp32-elf/bin/xtensa-esp32s2-elf-gcc cmTC_c89f4/fast && xtensa-esp32s2-elf-gcc: error: cmTC_c89f4/fast: No such file or directory
+xtensa-esp32s2-elf-gcc: fatal error: no input files
+compilation terminated.
+
+
+

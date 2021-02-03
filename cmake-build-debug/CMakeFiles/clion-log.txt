@@ -1,0 +1,31 @@
+/home/andreas/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/203.6682.181/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/andreas/esp/xtensa-esp32-elf/bin/xtensa-esp32s2-elf-gcc -DCMAKE_C_COMPILER=/home/andreas/esp/xtensa-esp32-elf/bin/xtensa-esp32s2-elf-cc -DCMAKE_CXX_COMPILER=/home/andreas/esp/xtensa-esp32-elf/bin/xtensa-esp32s2-elf-c++ -G "CodeBlocks - Unix Makefiles" /home/andreas/Desktop/TLU/Algoritmid/algotirmid
+-- The C compiler identification is GNU 8.4.0
+-- Check for working C compiler: /home/andreas/esp/xtensa-esp32-elf/bin/xtensa-esp32s2-elf-cc
+-- Check for working C compiler: /home/andreas/esp/xtensa-esp32-elf/bin/xtensa-esp32s2-elf-cc - broken
+CMake Error at /home/andreas/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/203.6682.181/bin/cmake/linux/share/cmake-3.17/Modules/CMakeTestCCompiler.cmake:60 (message):
+  The C compiler
+
+    "/home/andreas/esp/xtensa-esp32-elf/bin/xtensa-esp32s2-elf-cc"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: /home/andreas/Desktop/TLU/Algoritmid/algotirmid/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command(s):/home/andreas/esp/xtensa-esp32-elf/bin/xtensa-esp32s2-elf-gcc cmTC_c89f4/fast && xtensa-esp32s2-elf-gcc: error: cmTC_c89f4/fast: No such file or directory
+    xtensa-esp32s2-elf-gcc: fatal error: no input files
+    compilation terminated.
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/andreas/Desktop/TLU/Algoritmid/algotirmid/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/home/andreas/Desktop/TLU/Algoritmid/algotirmid/cmake-build-debug/CMakeFiles/CMakeError.log".
