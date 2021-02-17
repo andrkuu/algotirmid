@@ -1,2 +1,3 @@
-gcc kolmnurk.c -o algoritmid
+pwd
+gcc tund2/massiivid.c -o algoritmid
 ./algoritmid
